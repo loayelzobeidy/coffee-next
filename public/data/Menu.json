@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Espresso",
+    "description": "A concentrated shot of coffee.",
+    "price": 2.5,
+    "image_url": "espresso.jpg"
+  },
+  {
+    "name": "Americano",
+    "description": "Espresso diluted with hot water.",
+    "price": 3.0,
+    "image_url": "americano.jpg"
+  },
+  {
+    "name": "Latte",
+    "description": "Espresso with steamed milk and a layer of foam.",
+    "price": 4.0,
+    "image_url": "late.jpg"
+  },
+  {
+    "name": "Cappuccino",
+    "description": "Espresso with equal parts steamed milk and foam.",
+    "price": 4.5,
+    "image_url": "cappucino.jpg"
+  },
+  {
+    "name": "Macchiato",
+    "description": "Espresso with a small amount of steamed milk or foam.",
+    "price": 3.5,
+    "image_url": "machiatto.jpg"
+  },
+  {
+    "name": "Iced Latte",
+    "description": "Iced latte with your choice of milk.",
+    "price": 4.5,
+    "image_url": "Iced-Mocha-004.jpg"
+  },
+  {
+    "name": "Iced Coffee",
+    "description": "Cold brewed coffee over ice.",
+    "price": 3.5,
+    "image_url": "icedEspresso.jpg"
+  }
+]
